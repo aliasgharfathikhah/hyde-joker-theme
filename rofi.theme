@@ -1,0 +1,87 @@
+/* --- Joker Rofi Theme --- */
+
+* {
+    /* --- Colors --- */
+    background:     #100c14E6;
+    background-alt: #1a1a1a;
+    foreground:     #e0e0e0;
+    selected:       #9d18e2;
+    active:         #ff003c;
+    urgent:         #4eff00;
+
+    /* --- General --- */
+    border: 0;
+    margin: 0;
+    padding: 0;
+    spacing: 0;
+}
+
+window {
+    width: 30%;
+    background-color: @background;
+    border: 2px;
+    border-color: @selected;
+    border-radius: 12px;
+    padding: 16px;
+}
+
+mainbox {
+    children: [ inputbar, listview ];
+    background-color: transparent;
+}
+
+listview {
+    columns: 1;
+    lines: 8;
+    cycle: true;
+    scrollbar: false;
+    layout: vertical;
+    background-color: transparent;
+    spacing: 5px;
+    margin: 10px 0 0 0;
+}
+
+element {
+    padding: 8px;
+    border-radius: 8px;
+    background-color: transparent;
+    text-color: @foreground;
+}
+
+element-text {
+    background-color: inherit;
+    text-color: inherit;
+    vertical-align: 0.5;
+}
+
+element selected {
+    background-color: @selected;
+    text-color: @background;
+}
+
+element selected.active {
+    background-color: @active;
+    text-color: @background;
+}
+
+inputbar {
+    children: [ prompt, entry ];
+    padding: 8px;
+    border-radius: 8px;
+    background-color: @background-alt;
+    text-color: @foreground;
+}
+
+prompt {
+    enabled: true;
+    padding: 0 8px 0 0;
+    background-color: inherit;
+    text-color: @active;
+}
+
+entry {
+    background-color: inherit;
+    text-color: inherit;
+    placeholder: "Why so serious?";
+    placeholder-color: #555;
+}
