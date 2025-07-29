@@ -3,7 +3,6 @@
 *"Why so serious? Introduce a little anarchy to your desktop."*
 
 <img width="640" height="640" alt="Untitled design" src="https://github.com/user-attachments/assets/b10bdcf3-5bd0-4612-b266-621db6099266" />
----
 
 ### Description
 
