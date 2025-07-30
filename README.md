@@ -2,7 +2,31 @@
 
 *"Why so serious? Introduce a little anarchy to your desktop."*
 
-<img width="640" height="640" alt="Untitled design" src="https://github.com/user-attachments/assets/b10bdcf3-5bd0-4612-b266-621db6099266" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0d42213-e02b-4caf-a4fa-5218c1570cdd"
+       alt="Joker Theme Preview 1"
+       style="border-radius: 12px; border: 1px solid #ccc; width: 500px; margin: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.1);" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2dc56281-ea9c-4382-ac04-1a122607191d"
+       alt="Joker Theme Preview 3"
+       style="border-radius: 12px; border: 1px solid #ccc; width: 500px; margin: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.1);" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/117a0a73-5bb2-4336-87dd-a3568ce653db"
+       alt="Joker Theme Preview 2"
+       style="border-radius: 12px; border: 1px solid #ccc; width: 500px; margin: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.1);" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac3efc63-a998-47e1-86a9-26639caa34c5"
+       alt="Joker Theme Preview 4"
+       style="border-radius: 12px; border: 1px solid #ccc; width: 500px; margin: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.1);" />
+</p>
+
 
 ### Description
 
