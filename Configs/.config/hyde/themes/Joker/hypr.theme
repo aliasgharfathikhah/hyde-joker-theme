@@ -10,6 +10,8 @@
 # ----------------------------------------------------- 
 $GTK_THEME = Joker
 $COLOR_SCHEME = prefer-dark
+$KVANTUM_THEME = Joker
+$FONT = Joker
 
 # ----------------------------------------------------- 
 # General
