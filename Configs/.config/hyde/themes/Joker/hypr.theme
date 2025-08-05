@@ -8,13 +8,6 @@
 # ----------------------------------------------------- 
 # Gtk Stuff
 # ----------------------------------------------------- 
-$GTK_THEME = Joker
-$ICON_THEME = Joker-Icons
-$COLOR_SCHEME = prefer-dark
-
-exec = gsettings set org.gnome.desktop.interface icon-theme $ICON_THEME
-exec = gsettings set org.gnome.desktop.interface gtk-theme $GTK_THEME
-exec = gsettings set org.gnome.desktop.interface color-scheme $COLOR_SCHEME
 
 # ----------------------------------------------------- 
 # General
@@ -23,7 +16,6 @@ general {
     gaps_in = 6
     gaps_out = 12
     border_size = 3
-    # گرادینت قرمز-مشکی برای پنجره فعال
     col.active_border = rgba(ff003cff) rgba(100c14ff) 45deg
     col.inactive_border = rgba(100c14aa)
     layout = dwindle
