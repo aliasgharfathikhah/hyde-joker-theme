@@ -23,4 +23,10 @@
 To install the **Joker** theme, run the following command in your terminal:
 
 ```sh
-hydectl theme import --name "Joker" --url "[https://github.com/aliasgharfathikhah/hyde-joker-theme](https://github.com/aliasgharfathikhah/hyde-joker-theme)"
+hydectl theme import --name "Joker" --url "https://github.com/aliasgharfathikhah/hyde-joker-theme"
+```
+
+Alternatively, you can run the interactive installer and choose "Joker" from the list of themes in the gallery:
+```sh
+hydectl theme import
+```
